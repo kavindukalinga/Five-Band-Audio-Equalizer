@@ -1,2 +1,3 @@
 # Five-Band-Audio-Equalizer
-An Analog Electronic Project done for the module EN2091 - Laboratory Practice and Projects in Semester 03.
+
+In this project, we were asked to build a five-band equalizer that can divide the audio spectrum into separate frequency bands and have amplifiers for each band. With these amplifiers, we can change the gain of each band. Here we used a buffer circuit to separate input and filters and we used an adder circuit to recombine the frequency spectrum. For the filters, we use op-amps, capacitors, and resistors. And we use a center tap transformer and Voltage regulators to get +9V, -9V as supply voltages. We use a 3.5mm audio jack for audio input and output. We use variable resistors to change the gain. With the help of an LED strip and a dot bar display driver IC[3], we can see the gain of each frequency band.
